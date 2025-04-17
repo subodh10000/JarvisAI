@@ -1,6 +1,6 @@
-# HARDCODED local virtual assistant (No AI api)
+# HARDCODED Jarvis- The local virtual assistant (No AI api)
 
-An intelligent, feature-rich voice assistant built in Python that responds to voice commands and performs a wide variety of tasks.
+An intelligent, feature-rich voice assistant built in Python that responds to voice commands and performs a wide variety of tasks even without the internet.
 
 ## Features
 
